@@ -28,7 +28,7 @@
 
 1. 克隆项目
 bash
-git clone https://github.com/你的用户名/irrigation-prediction.git
+git clone https://github.com/qq94398/irrigation-prediction.git
 cd irrigation-prediction
 2. 安装依赖
 bash
